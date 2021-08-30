@@ -1,0 +1,7 @@
+network/__pycache__
+pipline/__pycache__
+tool/__pycache__
+voc12/__pycache__
+data/
+coco14/
+voc12/
