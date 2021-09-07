@@ -20,9 +20,9 @@ In segmentation part, we propose Pretended Under-Fitting strategy and Cyclic Pse
 ### Classification
 
 #### Data Preparation
-1. Download VOC12 [OneDrive](https://1drv.ms/u/s!Agn5nXKXMkK5aigB0g238YxuTxs?e=FjGaBI), [BaiduYun](https://pan.baidu.com/s/1GL3zXZuapuXmH9E7Xy8-Fg)
+1. Download VOC12 [OneDrive](https://1drv.ms/f/s!Agn5nXKXMkK5aigB0g238YxuTxs), [BaiduYun](https://pan.baidu.com/s/1GL3zXZuapuXmH9E7Xy8-Fg)
 2. Download COCO14 [BaiduYun](https://pan.baidu.com/s/1GL3zXZuapuXmH9E7Xy8-Fg)
-3. Download pretrained models [OneDrive](https://1drv.ms/u/s!Agn5nXKXMkK5aigB0g238YxuTxs?e=FjGaBI), [BaiduYun](https://pan.baidu.com/s/1GL3zXZuapuXmH9E7Xy8-Fg)
+3. Download pretrained models [OneDrive](https://1drv.ms/f/s!Agn5nXKXMkK5aigB0g238YxuTxs), [BaiduYun](https://pan.baidu.com/s/1GL3zXZuapuXmH9E7Xy8-Fg)
 (extract code of BaiduYun: mtci)
 
 #### Get Started
