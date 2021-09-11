@@ -3,11 +3,11 @@ import os
 
 from tool import pyutils
 
-from pipline.train_cam import train
-from pipline.infer_multi_scale import infer_multi_scale
-from pipline.infer_multi_crop import infer_multi_crop
-from pipline.refine_cam import refine_cam
-from pipline.evaluation import evaluation
+from pipeline.train_cam import train
+from pipeline.infer_multi_scale import infer_multi_scale
+from pipeline.infer_multi_crop import infer_multi_crop
+from pipeline.refine_cam import refine_cam
+from pipeline.evaluation import evaluation
 
 
 if __name__ == '__main__':
