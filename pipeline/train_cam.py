@@ -152,7 +152,7 @@ def train(args):
 
             optimizer.zero_grad()
             if torch.isnan(loss):
-                torch.empty_cache()
+                torch.cuda.empty_cache()
                 continue
             loss.backward()
             optimizer.step()
